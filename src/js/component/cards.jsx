@@ -22,6 +22,7 @@ const Cards = () => {
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
     image: "https://picsum.photos/id/1016/500/325"
   }
+  
 ];
 
   return (
